@@ -58,3 +58,5 @@ ax = fig.add_subplot(111, projection='3d')
 ax.plot_surface(x, y, arr, cmap="terrain", edgecolor="k")
 ax.set_title("3D Elevation Map")
 plt.show()
+
+
